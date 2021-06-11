@@ -51,4 +51,11 @@ body {
 }
 
 
+#sec-hand {
+  height: 4px;
+  width: 50%;
+}
 
+#hour-hand {
+  height: 7px;
+}
